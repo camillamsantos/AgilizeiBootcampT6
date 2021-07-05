@@ -1,0 +1,18 @@
+{
+    "reporterEnabled": "spec, mocha-junit-reporter, mochawesome, cypress-multireporters, multiple-cucumber-html-reporter",
+    "mochaJunitReporterReporterOptions": {
+        "mochaFile": "cypress/results/results-[hash].xml"
+        
+    },
+
+    "mochawesomeReporterOptions": {
+        "reportDir": "cypress/reports/mocha",
+        "quite": true,
+        "overwrite": false,
+        "html": false,
+        "json": true
+        
+    }
+    
+   
+}

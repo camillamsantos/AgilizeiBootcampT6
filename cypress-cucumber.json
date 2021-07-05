@@ -1,0 +1,22 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "baseUrl": "http://demo.automationtesting.in",
+    
+    "watchForFileChanges": false,
+    "testFiles": "**/*.{feature,features}",
+  
+
+     
+      "defaultCommandTimeout": 5000,
+      "e2e": {
+        "defaultCommandTimeout": 10000
+      },
+  
+      "screenshotOnRunFailure": true,
+      
+      "downloadsFolder" : "cypress/downloads"
+
+      
+  }
+  
+ 
