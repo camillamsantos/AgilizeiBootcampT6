@@ -9,3 +9,11 @@ cypress/downloads
 package-lock.json
 node_modules
 cypress.env.json
+
+#relatorios mocha
+mochawesome-report
+
+#relatorios cucumber
+cypress/reports/index.html
+cypress/reports/index.html.json
+cypress/reports/cucumber-json/**
