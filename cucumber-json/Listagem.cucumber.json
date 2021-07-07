@@ -23,7 +23,7 @@
             "name": "Que site não possui Registros - WebTable",
             "result": {
               "status": "passed",
-              "duration": 17054000000
+              "duration": 18454000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "Acessar a Listagem",
             "result": {
               "status": "passed",
-              "duration": 5404000000
+              "duration": 5286000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "Devo visualizar a listagem vazia",
             "result": {
               "status": "passed",
-              "duration": 39000000
+              "duration": 52000000
             }
           }
         ]
@@ -63,7 +63,7 @@
             "name": "Que o site possui apenas um Registro",
             "result": {
               "status": "passed",
-              "duration": 342000000
+              "duration": 200000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "Acessar a listagem",
             "result": {
               "status": "passed",
-              "duration": 3640000000
+              "duration": 3962000000
             }
           },
           {
@@ -83,7 +83,7 @@
             "name": "Devo visualizar apenas um registro",
             "result": {
               "status": "passed",
-              "duration": 99000000
+              "duration": 107000000
             }
           }
         ]
